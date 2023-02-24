@@ -8,7 +8,7 @@ require (
 	github.com/logrusorgru/aurora v0.0.0-20190428105938-cea283e61946
 	github.com/miekg/dns v1.1.14
 	github.com/stretchr/testify v1.3.0
-	golang.org/x/net v0.0.0-20190611141213-3f473d35a33a // indirect
+	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	google.golang.org/api v0.6.0
 	gopkg.in/yaml.v2 v2.2.2
